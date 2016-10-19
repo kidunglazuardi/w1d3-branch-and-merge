@@ -26,5 +26,5 @@ var mary = {
   country: "UK"
 }
 
-//this is comment
-//last line 
+//this is the real life
+//this is the fantasy
