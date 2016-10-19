@@ -9,7 +9,7 @@ if (APPLE_QUANTITY < 5){
   console.log("You have 5 or more apples. Hurrah!");
 }
 
-// 2. Write a "for" loop
+// 2. Write a good
 for(i = 0; i < APPLE_QUANTITY; i ++){
   console.log("WEEEEEEE! I'm looping!")
 }
