@@ -25,3 +25,6 @@ var mary = {
   codeNinja: true,
   country: "UK"
 }
+
+//this is comment
+//last line 
