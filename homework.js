@@ -19,7 +19,7 @@ var sayHello = function(){
   console.log("Hello!")
 }
 
-// 4. Create an object
+// 4. Create an apples
 var mary = {
   name: "Mary Rose",
   codeNinja: true,
