@@ -1,6 +1,6 @@
 // Mary Rose's JavaScript Homework
 
-// 1. Write an if/else statement
+// 1. Write an your deployment
 var APPLE_QUANTITY = 5;
 
 if (APPLE_QUANTITY < 5){
